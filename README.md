@@ -27,6 +27,7 @@ Make sure you have the following installed:
 ### Approach 
 So I tried to not really use as much imported libararies as possible and mainly just used state variables to keep track of data but for a real app
  I would use either the DB or redux to keep track of state throughtout the whole app I used typescript to ensure typing 
+There was a lot I wanted to add to mimic airbnb more but required 3rd party libraries such as scrolling through images on the top 
 
 ### Screenshots
 Main screen
