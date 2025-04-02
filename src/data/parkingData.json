@@ -1,0 +1,24 @@
+{
+  "id": "123",
+  "title": "Convenient Downtown Parking in Pensacola, Florida",
+  "address": "123 Main St, San Francisco, CA",
+  "description": "This secure parking space is located in a well-lit, monitored garage, offering peace of mind for your vehicle’s safety. Conveniently situated near major downtown attractions, shopping centers, and public transit hubs, it provides easy access to the city's best spots. Whether you need short-term or long-term parking, this space is available 24/7 with controlled access, ensuring only authorized vehicles can enter. The garage is regularly maintained and equipped with security cameras, providing an extra layer of protection. Perfect for commuters, travelers, and residents looking for a hassle-free parking solution in a prime location.",
+  "distance_miles": 0.3,
+  "host_rating": 4.7,
+  "image_urls": [
+    "../../assets/reserved parking spot_10441780.jpg",
+    "../../assets/icons8-share-rounded-32.png",
+    "../../assets/icons8-back-arrow-50.png"
+  ],
+  "price_per_hour": 12.75,
+  "amenities": ["Covered", "Security Camera", "24/7 Access", "Car Port"],
+  "reviews": ["Great spot", "Very friendly and clean", "Super affordable"],
+  "isGuestFavorite": true,
+  "host": {
+    "name": "Hosting host",
+    "years_hosting": 3,
+    "is_super_host": true,
+    "host_image": "../../assets/splash-icon.png"
+  },
+  "minor_description": "Safe parking spot in Pensacola, Florida"
+}
